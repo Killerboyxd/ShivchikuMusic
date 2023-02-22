@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h1> RaiChu Music </h1>
+<h1> 𝗦𝗛𝗜𝗩 𝗠𝗨𝗦𝗜𝗖 </h1>
 
 telegram bot project for streaming video on telegram video chat, powered by [tgcalls](https://github.com/MarshalX/tgcalls) and [pyrogram](https://github.com/pyrogram/pyrogram)
 
@@ -96,8 +96,8 @@ The easiest way to host this bot
  <h3> <details>
   <summary><b>Credits 💖</b></summary>
 
-- [Null Coder](https://github.com/AMANTYA1) for Editing
-- [Levina](https://github.com/levina-lab/video-stream) for Codes
+- [𝗦𝗛𝗜𝗩](https://github.com/AMANTYA1) for Editing
+- [𝗞𝗜𝗟𝗟𝗘𝗥 𝗕𝗢𝗬](https://github.com/levina-lab/video-stream) for Codes
 - [Team Yukki](https://github.com/TeamYukki/YukkiMusicBot) for Thumbnail
 - [Marshal](https://github.com/MarshalX) for [pytgcalls](https://github.com/MarshalX)
 - [Dan](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram) 
